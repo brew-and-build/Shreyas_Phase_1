@@ -2,7 +2,7 @@
 
 Owners: Dev A Shreyas, Dev B Rohan, Dev C Bhavisha, Dev D Shravani. Keep tasks small; each fits one Claude Pro session.
 Hacking started Sat Oct 24, 10:30 AM MST. Track 1 close assumed **8:30 PM MST** (10:30 AM + 10 h; `status` shows no close time, Discord confirmation pending). **Submit by 5:30 PM MST.**
-Test in each member's own repo in the brew-and-build org; final Skill goes to github.com/brew-and-build/brew-and-build `skills/<name>/`. Skill idea (Exam Sprint) awaits team confirmation (team still deciding). Emails: Shreyas srevank2@asu.edu, Rohan rwaghode@asu.edu, Bhavisha bsondaga@asu.edu, Shravani skulk119@asu.edu. Shreyas owns the entry and lists all 4.
+Test in each member's own repo in the brew-and-build org; final Skill goes to github.com/brew-and-build/brew-and-build `skills/<name>/`. Skill idea (Exam Sprint) awaits team confirmation (team still deciding). Shreyas owns the entry and lists all 4 members.
 
 | # | Task | Owner | Clock target (MST, Sat) | Done when | Depends on |
 | --- | --- | --- | --- | --- | --- |

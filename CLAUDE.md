@@ -7,3 +7,4 @@
 - Only edit files in the folders assigned to the current dev.
 - Only Dev A edits package files, lockfiles, `.env`, and root configs.
 - Repos are public: never commit secrets or API keys. Use environment variables.
+- Never write email addresses into any file.

@@ -1,13 +1,13 @@
 # Brew & Build: Cubbie Hackathon plan (Phase 1 focus)
 
-Team (all ASU emails; Shreyas owns all entries and lists all 4 members):
+Team (Shreyas owns all entries and lists all 4 members; emails are kept out of files on purpose):
 
-| Dev | Name | Email | Role / share |
-| --- | --- | --- | --- |
-| A | Shreyas Jagannath Revankar | srevank2@asu.edu | Backend, integrations, deployment, repo setup; 30%; entry owner |
-| B | Rohan Shirish Waghode | rwaghode@asu.edu | Core logic, frontend, integration; 30% |
-| C | Bhavisha Rajubhai Sondagar | bsondaga@asu.edu | Leads Track 1 Skill, pitch deck and story; 20% |
-| D | Shravani Kishor Kulkarni | skulk119@asu.edu | Testing, polish, README, video, social, vote push, demo; 20% |
+| Dev | Name | Role / share |
+| --- | --- | --- |
+| A | Shreyas Jagannath Revankar | Backend, integrations, deployment, repo setup; 30%; entry owner |
+| B | Rohan Shirish Waghode | Core logic, frontend, integration; 30% |
+| C | Bhavisha Rajubhai Sondagar | Leads Track 1 Skill, pitch deck and story; 20% |
+| D | Shravani Kishor Kulkarni | Testing, polish, README, video, social, vote push, demo; 20% |
  Main repo: github.com/brew-and-build/brew-and-build (final work, `skills/<skill-name>/`); each member tests in their own repo in the org. Strongest skills: pending team confirmation (Python, JavaScript, React, Node was only an example).
 
 Sources: kit `skills/cubbie-hackathon/references/{rules,ideas}.md` (R), `SKILL.md` (S), skill-creator references (C), organizers' guide `docs/event/cubbie-skill-guide.md` (G), tracks screenshot (SS), live `status` output and https://hackathon.cubbie.ai (site). Kit and live site win over the screenshot and guide. Anything marked **[Judgment]** or **[Assumption]** is ours, not the organizers'.
@@ -198,7 +198,7 @@ Notes: Shreyas's groundwork must not delay Track 1 steps 9, 12, 13, 16 and 17 (h
 | 6 | Skill idea (Exam Sprint recommended) | Team still deciding; awaiting confirmation |
 | 7 | Team names and emails | Resolved (see team table) |
 | 8 | Strongest skills | Pending; affects Track 2 vs 3 |
-| 9 | Four ASU emails | Resolved (see team table); `whoami` must show srevank2@asu.edu before submitting |
+| 9 | Four ASU emails | Resolved (kept in the conversation only, not in files); `whoami` must show the owner's ASU address before submitting |
 | 10 | Entry owner | Shreyas owns all entries (confirmed) |
 | 11 | ASU campus details in Track 2/3 ideas | **[Assumption]** verify before use |
 | 12 | Model API funding for Tracks 2/3 | Decide before build |
